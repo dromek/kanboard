@@ -1138,7 +1138,7 @@ return array(
     // 'Your board doesn\'t have any column!' => '',
     // 'Change column position' => '',
     // 'Switch to the project overview' => '',
-    // 'User filters' => '',
+    'User filters' => 'Filtry użytkownika',
     // 'Category filters' => '',
     'Upload a file' => 'Prześlij plik',
     'There is no attachment at the moment.' => 'Brak załączników.',
