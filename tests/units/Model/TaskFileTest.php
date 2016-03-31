@@ -2,7 +2,6 @@
 
 require_once __DIR__.'/../Base.php';
 
-use Kanboard\Model\Task;
 use Kanboard\Model\TaskFile;
 use Kanboard\Model\TaskCreation;
 use Kanboard\Model\Project;
@@ -332,7 +331,7 @@ class TaskFileTest extends Base
         $fileModel = $this
             ->getMockBuilder('\Kanboard\Model\TaskFile')
             ->setConstructorArgs(array($this->container))
-            ->setMethods(array('generateThumbnailFromFile'))
+            ->setMethods(array('generateThumbnailFromData'))
             ->getMock();
 
         $projectModel = new Project($this->container);
@@ -344,7 +343,7 @@ class TaskFileTest extends Base
 
         $fileModel
             ->expects($this->once())
-            ->method('generateThumbnailFromFile');
+            ->method('generateThumbnailFromData');
 
         $this->container['objectStorage']
             ->expects($this->once())

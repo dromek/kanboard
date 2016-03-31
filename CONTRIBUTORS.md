@@ -20,6 +20,7 @@ Contributors:
 - [Cluxter](https://github.com/cluxter)
 - [Cmer](https://github.com/chncsu)
 - [Colin Williams](https://github.com/crwilliams)
+- [Connor Bode](https://github.com/connorbode)
 - [Crash5](https://github.com/crash5)
 - [Creador30](https://github.com/creador30)
 - [Cynthia Pereira](https://github.com/cynthiapereira)
@@ -39,6 +40,7 @@ Contributors:
 - [Fengchao](https://github.com/fengchao)
 - [Floaltvater](https://github.com/floaltvater)
 - [Gavlepeter](https://github.com/gavlepeter)
+- [Gerardo Zamudio](https://github.com/gerardozamudio)
 - [Goofy](https://github.com/goofy-bz)
 - [Hendrik Stocker](https://github.com/hendrik-stoker)
 - [Iterate From 0](https://github.com/freebsd-kanboard)
@@ -65,6 +67,7 @@ Contributors:
 - [Max Kamashev](https://github.com/ukko)
 - [mfoucrier](https://github.com/mfoucrier)
 - [Matthew Cillo](https://github.com/peripatetic-sojourner)
+- [Maxime Corteel](https://github.com/mcorteel)
 - [Mgro](https://github.com/mgro)
 - [Michael Lüpkes](https://github.com/mluepkes)
 - [Mihailov Vasilievic Filho](https://github.com/mihailov-vf)
@@ -83,6 +86,7 @@ Contributors:
 - [Oliver Jakoubek](https://github.com/jakoubek)
 - [Olivier Maridat](https://github.com/oliviermaridat)
 - [Oren Ben-Kiki](https://github.com/orenbenkiki)
+- [Patrick Van Elk](https://github.com/patrickvanelk)
 - Paolo Mainieri
 - [Pavel Roušar](https://github.com/rousarp)
 - [Peller Zoltan](https://github.com/PierP)
@@ -94,6 +98,7 @@ Contributors:
 - [Rafaelrossa](https://github.com/rafaelrossa)
 - [Raphaël Doursenaud](https://github.com/rdoursenaud)
 - [René Stoltenberg](https://github.com/rstoltenberg)
+- [Renothing](https://github.com/renothing)
 - [Rzeka](https://github.com/rzeka)
 - [Sebastien Pacilly](https://github.com/spacilly)
 - [Sebastian Reese](https://github.com/ReeseSebastian)
@@ -115,6 +120,7 @@ Contributors:
 - [Vladimir Babin](https://github.com/Chiliec)
 - [Yannick Ihmels](https://github.com/ihmels)
 - [Ybarc](https://github.com/ybarc)
+- [Yu Yongwoo](https://github.com/uyu423)
 - [Yuichi Murata](https://github.com/yuichi1004)
 
 There is also many people who have reported bugs or proposed awesome ideas.

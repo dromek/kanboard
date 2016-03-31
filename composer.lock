@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "0e754e4bc3eec85b3d14c748f1ed857a",
-    "content-hash": "c7f7baadd60fdcf8fb9e2e3a7214357f",
+    "hash": "ecdd93c089273876816339ff22d67cc7",
+    "content-hash": "a5edc6f9c9ae2cd356e3f8ac96ef5532",
     "packages": [
         {
             "name": "christian-riesen/base32",
@@ -239,16 +239,16 @@
         },
         {
             "name": "fguillot/picodb",
-            "version": "v1.0.5",
+            "version": "v1.0.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fguillot/picoDb.git",
-                "reference": "3b388ef12f8c57f3bca85d278a53cf6fa2d832b8"
+                "reference": "672a819ba2757a9e22a3572a230e735e84bcf625"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/fguillot/picoDb/zipball/3b388ef12f8c57f3bca85d278a53cf6fa2d832b8",
-                "reference": "3b388ef12f8c57f3bca85d278a53cf6fa2d832b8",
+                "url": "https://api.github.com/repos/fguillot/picoDb/zipball/672a819ba2757a9e22a3572a230e735e84bcf625",
+                "reference": "672a819ba2757a9e22a3572a230e735e84bcf625",
                 "shasum": ""
             },
             "require": {
@@ -272,7 +272,7 @@
             ],
             "description": "Minimalist database query builder",
             "homepage": "https://github.com/fguillot/picoDb",
-            "time": "2016-02-20 02:56:11"
+            "time": "2016-03-27 20:15:25"
         },
         {
             "name": "fguillot/simple-validator",
@@ -397,16 +397,16 @@
         },
         {
             "name": "paragonie/random_compat",
-            "version": "v1.2.0",
+            "version": "v2.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/paragonie/random_compat.git",
-                "reference": "b0e69d10852716b2ccbdff69c75c477637220790"
+                "reference": "76e90f747b769b347fe584e8015a014549107d35"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/b0e69d10852716b2ccbdff69c75c477637220790",
-                "reference": "b0e69d10852716b2ccbdff69c75c477637220790",
+                "url": "https://api.github.com/repos/paragonie/random_compat/zipball/76e90f747b769b347fe584e8015a014549107d35",
+                "reference": "76e90f747b769b347fe584e8015a014549107d35",
                 "shasum": ""
             },
             "require": {
@@ -441,7 +441,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2016-02-06 03:52:05"
+            "time": "2016-03-18 20:36:13"
         },
         {
             "name": "pimple/pimple",
@@ -627,16 +627,16 @@
         },
         {
             "name": "symfony/console",
-            "version": "v2.8.2",
+            "version": "v2.8.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "d0239fb42f98dd02e7d342f793c5d2cdee0c478d"
+                "reference": "9a5aef5fc0d4eff86853d44202b02be8d5a20154"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/d0239fb42f98dd02e7d342f793c5d2cdee0c478d",
-                "reference": "d0239fb42f98dd02e7d342f793c5d2cdee0c478d",
+                "url": "https://api.github.com/repos/symfony/console/zipball/9a5aef5fc0d4eff86853d44202b02be8d5a20154",
+                "reference": "9a5aef5fc0d4eff86853d44202b02be8d5a20154",
                 "shasum": ""
             },
             "require": {
@@ -683,20 +683,20 @@
             ],
             "description": "Symfony Console Component",
             "homepage": "https://symfony.com",
-            "time": "2016-01-14 08:33:16"
+            "time": "2016-03-17 09:19:04"
         },
         {
             "name": "symfony/event-dispatcher",
-            "version": "v2.8.2",
+            "version": "v2.8.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/event-dispatcher.git",
-                "reference": "ee278f7c851533e58ca307f66305ccb9188aceda"
+                "reference": "47d2d8cade9b1c3987573d2943bb9352536cdb87"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/ee278f7c851533e58ca307f66305ccb9188aceda",
-                "reference": "ee278f7c851533e58ca307f66305ccb9188aceda",
+                "url": "https://api.github.com/repos/symfony/event-dispatcher/zipball/47d2d8cade9b1c3987573d2943bb9352536cdb87",
+                "reference": "47d2d8cade9b1c3987573d2943bb9352536cdb87",
                 "shasum": ""
             },
             "require": {
@@ -743,11 +743,11 @@
             ],
             "description": "Symfony EventDispatcher Component",
             "homepage": "https://symfony.com",
-            "time": "2016-01-13 10:28:07"
+            "time": "2016-03-07 14:04:32"
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.1.0",
+            "version": "v1.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
@@ -808,16 +808,16 @@
     "packages-dev": [
         {
             "name": "symfony/stopwatch",
-            "version": "v2.8.2",
+            "version": "v2.8.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/stopwatch.git",
-                "reference": "e3bc8e2a984f4382690a438c8bb650f3ffd71e73"
+                "reference": "9e24824b2a9a16e17ab997f61d70bc03948e434e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/stopwatch/zipball/e3bc8e2a984f4382690a438c8bb650f3ffd71e73",
-                "reference": "e3bc8e2a984f4382690a438c8bb650f3ffd71e73",
+                "url": "https://api.github.com/repos/symfony/stopwatch/zipball/9e24824b2a9a16e17ab997f61d70bc03948e434e",
+                "reference": "9e24824b2a9a16e17ab997f61d70bc03948e434e",
                 "shasum": ""
             },
             "require": {
@@ -853,7 +853,7 @@
             ],
             "description": "Symfony Stopwatch Component",
             "homepage": "https://symfony.com",
-            "time": "2016-01-03 15:33:41"
+            "time": "2016-03-04 07:54:35"
         }
     ],
     "aliases": [],

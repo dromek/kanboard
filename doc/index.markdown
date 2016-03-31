@@ -100,11 +100,13 @@ Technical details
 - [Installation on Heroku](heroku.markdown)
 - [Run Kanboard with Docker](docker.markdown)
 - [Run Kanboard with Vagrant](vagrant.markdown)
+- [Run Kanboard on Cloudron](cloudron.markdown)
 
 ### Configuration
 
 - [Daily background job](cronjob.markdown)
 - [Config file](config.markdown)
+- [Environment variables](env.markdown)
 - [Email configuration](email-configuration.markdown)
 - [URL rewriting](nice-urls.markdown)
 
