@@ -38,7 +38,7 @@ Kanboard.Markdown.prototype.destroy = function() {
 };
 
 Kanboard.Markdown.prototype.show = function(textarea) {
-    var toolbar = ["bold", "italic", "strikethrough", "heading", "|", "unordered-list", "ordered-list", "link", "|", "code", "table"];
+    var toolbar = ["bold", "italic", "strikethrough", "heading", "|", "unordered-list", "ordered-list", "link", "|", "code", "table", "preview"];
 
     this.editor = new SimpleMDE({
         element: textarea,
@@ -49,6 +49,12 @@ Kanboard.Markdown.prototype.show = function(textarea) {
         autosave: {
             enabled: false
         },
+        shortcuts: { 
+            "toggleBlockquote": null,
+            "toggleUnorderedList": null,
+            "toggleOrderedList: null
+        }
+            
         forceSync: true,
         blockStyles: {
             italic: "_"
